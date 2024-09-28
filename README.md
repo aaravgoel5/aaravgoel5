@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aaravgoel5/aaravgoel5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aarav Goel
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<div align="center">
+
+ I’m currently working on **NeuroEvolution of Augmenting Topologiess and OpenCv**.
+
+ I’m currently learning **Object-Oriented Programming, Docker, and AI**
+
+ Ask me about **Python, NEAT, coding... or anything [here](https://github.com/aaravgoel5/aaravgoel5/issues)**
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:aarogoel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c,java,nextjs" /><br>
+</div>
+
+<br/>
