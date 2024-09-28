@@ -1,17 +1,13 @@
 <div align="center">
 
 # Aarav Goel
-
 </div>
-
-
----
 
 <div align="center">
 
- I’m currently working on **NeuroEvolution of Augmenting Topologiess and OpenCv**.
+Working on **NeuroEvolution of Augmenting Topologiess and OpenCv**.
 
- I’m currently learning **Object-Oriented Programming, Docker, and AI**
+Learning **Object-Oriented Programming, Docker, and AI**
 
  Ask me about **Python, NEAT, coding... or anything [here](https://github.com/aaravgoel5/aaravgoel5/issues)**
 
